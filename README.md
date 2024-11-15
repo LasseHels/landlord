@@ -1,4 +1,4 @@
-# Land
+# Landlord
 Landlord simulates eviction storms in an AKS cluster.
 
 ## Motivation
