@@ -3,7 +3,7 @@ Landlord simulates eviction storms in an AKS cluster.
 
 ## Motivation
 
-Landlord was built for an incident wargame in which spot instances are continuously evicted.
+Landlord was hastily put together for an incident wargame in which spot instances are continuously evicted.
 
 Do not run Landlord in production.
 
